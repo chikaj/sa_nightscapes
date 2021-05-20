@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata xml:lang="en"><Esri><CreaDate>20210123</CreaDate><CreaTime>14275100</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Spatial Analyst Tools.tbx\RasterCalculator" Date="20210123" Time="142751">RasterCalculator " "mask632.tif" * "mask795.tif" * "mask770.tif"" "C:\Users\nc17\Documents\Advising\Bradley Johnson\nightscapes_sanantonio\mask.tif"</Process></lineage></DataProperties></Esri></metadata>
